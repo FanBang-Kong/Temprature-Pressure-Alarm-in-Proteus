@@ -6,7 +6,7 @@
 
 * 温度采集（LM35 模拟温度传感器）
 * 压力采集（模拟压力传感器，kPa 级）
-* OLED 显示（SSD1306，128×32，I2C）
+* OLED 显示（128×32，I2C）
 * 按键菜单系统（主菜单 / HOME / SETTINGS）
 * 定时中断 + 外部硬件中断
 * 多状态指示灯与蜂鸣器告警逻辑
@@ -92,7 +92,7 @@ The system provides **real-time display of temperature, pressure, trends, and di
 * Arduino Uno
 * LM35 温度传感器
 * 模拟压力传感器
-* SSD1306 OLED（128×32，I2C）
+* OLED（128×32，I2C）
 * LM393 比较器（压力紧急中断）
 * LED × 多个
 * 有源蜂鸣器
