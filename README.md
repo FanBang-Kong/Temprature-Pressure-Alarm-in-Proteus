@@ -28,6 +28,8 @@ The system provides **real-time display of temperature, pressure, trends, and di
 
 ---
 
+<img width="1934" height="1256" alt="SBC-23-1032+SBC-23-1033" src="https://github.com/user-attachments/assets/f2ce2869-e416-41f8-93f8-6eef37596a07" />
+
 ## 系统功能 / System Features
 
 ### 1. 温度监测 / Temperature Monitoring
