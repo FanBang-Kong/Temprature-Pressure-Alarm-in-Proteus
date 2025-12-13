@@ -132,7 +132,8 @@ This code was developed, simulated, and verified under **Proteus 8.17**.
 
 * 项目包含多模块协作开发（标注为 KONG / TAN）
 * 代码结构以**工程可读性与教学清晰度**为主要目标
-
+* **Fanbang Kong**
+* **[Qinyi Tan](https://github.com/Qinyi-Tan)**
 ---
 
 **End of README**
